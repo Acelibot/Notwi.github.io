@@ -100,32 +100,6 @@ img:hover {
     box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
 }
 
-.learn h3 {
-    text-decoration: underline;
-}
-
-.learn img {
-    border: none;
-    height: 240px;
-    width: 300px;
-    border-radius: 10px;
-    transition: transform 0.3s ease; 
-}
-
-.learn img:hover {
-  transform: scale(1.2); 
-  cursor: pointer; 
-}
-
-learn p {
-    font-size:20px;
-    text-decoration: none;  
-}
-
-.learn strong {
-    color: skyblue;
-}
-
 .flex{
     width: 250px;
     height: 250px;
